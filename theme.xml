@@ -177,6 +177,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	<fontSize>0.03</fontSize>
 	<lineSpacing>1.70</lineSpacing>
 	<horizontalMargin>0.05</horizontalMargin>
+	<scrollSound>./_assets/listscroll.wav</scrollSound>
 </textlist>
 
 <helpsystem name="help">
